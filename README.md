@@ -7,6 +7,7 @@ I currently work as a Software Engineer at **[Totality Corp](https://www.totalit
 
 I also have a deep passion for collaborations, contributing to open sources, and community engagements.
 <br />
+<br />
 <p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/section-separator.png" width="100" /></p>
 
 <!-- You can find me here 👇 -->
@@ -50,6 +51,7 @@ I also have a deep passion for collaborations, contributing to open sources, and
   <img src="https://img.shields.io/badge/-Github Actions-e8e3fc?logo=Github Actions&logoColor=2088FF&style=for-the-badge&logoWidth=15" alt="Github Actions" />
 </p>
 <br />
+
 <p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/section-separator.png" width="100" /></p>
 
 ## Contribution Stats
@@ -58,6 +60,7 @@ I also have a deep passion for collaborations, contributing to open sources, and
   <img src="http://github-readme-streak-stats.herokuapp.com?user=vrbaghel&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak Vinayak Baghel">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrbaghel&layout=compact" />  -->
 </div>
+<br />
 <br />
 <p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/section-separator.png" width="100" /></p>
 
@@ -68,7 +71,10 @@ I love playing piano 🎹 Unfortunately I dont get much time but I try to spare 
 
 Let's watch **anime** together! (P.S - I know a bit of Japanese)
 <br />
+<br />
 <p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/section-separator.png" width="100" /></p>
+<br />
+
 <p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/gojo.gif" /></p>
 
 <!--
