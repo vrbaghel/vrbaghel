@@ -6,7 +6,7 @@ I'm a front-end developer with strong interest in creating web applications that
 I currently work as a Software Engineer at **[Totality Corp](https://www.totalitycorp.com/)**. My day-to-day responsibilities include creating reusable, responsive & adaptive components, finding ways to optimize performance of web applications, fixing bugs, testing, deployment & attend meetings :)
 
 I also have a deep passion for collaborations, contributing to open sources, and community engagements.
-
+<br />
 <p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/section-separator.png" width="100" /></p>
 
 <!-- You can find me here 👇 -->
@@ -49,7 +49,7 @@ I also have a deep passion for collaborations, contributing to open sources, and
   <img src="https://img.shields.io/badge/-Amazon Web Services-e8e3fc?logo=Amazon AWS&logoColor=202020&style=for-the-badge&logoWidth=15" alt="Amazon AWS" />
   <img src="https://img.shields.io/badge/-Github Actions-e8e3fc?logo=Github Actions&logoColor=2088FF&style=for-the-badge&logoWidth=15" alt="Github Actions" />
 </p>
-
+<br />
 <p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/section-separator.png" width="100" /></p>
 
 ## Contribution Stats
@@ -61,17 +61,16 @@ I also have a deep passion for collaborations, contributing to open sources, and
 <br />
 <p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/section-separator.png" width="100" /></p>
 
+## Fun Facts About Me
+I drink lots & lots of coffee ☕️
+
+I love playing piano 🎹 Unfortunately I dont get much time but I try to spare as much time as possible.
+
+Let's watch **anime** together! (P.S - I know a bit of Japanese)
+<br />
+<p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/section-separator.png" width="100" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/gojo.gif" /></p>
+
 <!--
 **vrbaghel/vrbaghel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
