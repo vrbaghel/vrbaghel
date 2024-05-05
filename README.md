@@ -68,8 +68,6 @@ I also have a deep passion for collaborations, contributing to open sources, and
 I drink lots & lots of coffee ☕️
 
 I love playing piano 🎹 Unfortunately I dont get much time but I try to spare as much time as possible.
-
-Let's watch **anime** together! (P.S - I know a bit of Japanese)
 <br />
 <br />
 <p align="center"><img src="https://raw.githubusercontent.com/vrbaghel/profile-assets/main/assets/section-separator.png" width="100" /></p>
