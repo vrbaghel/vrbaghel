@@ -80,20 +80,16 @@
     <div style="line-height: 0.7;">
       <h3 style="font-size: 15px; font-weight: 600; font-family: monospace; line-height: 0.5">Fields I'm Exploring</h3>
       <p>
-        <span style="font-weight: 500">UI/UX Principles </span> &#8227;
-        Enhancing user experience and design thinking for better interfaces.
+        <span style="font-weight: 500">DevOps and Cloud Principles </span> &#8227;
+        Deploying and Scaling microservices
       </p>
       <p>
-        <span style="font-weight: 500">Prompt Engineering </span> &#8227;
-        Understanding how AI models interpret and generate content.
+        <span style="font-weight: 500">AI Native Engineering </span> &#8227;
+        Understanding how AI models integrate with development stack.
       </p>
     </div>
     <div style="line-height: 0.7;">
       <h3 style="font-size: 15px; font-weight: 600; font-family: monospace; line-height: 0.5">Tools & Frameworks I’m Learning</h3>
-      <p>
-        <a href="https://threejs.org/">Three.js</a> &#8227;
-        Bringing interactive 3D experiences to the web.
-      </p>
       <p>
         <a href="https://kubernetes.io/">Kubernetes</a> & <a href="https://www.terraform.io/">Terraform</a> &#8227;
         Scaling and automating cloud infrastructure.
